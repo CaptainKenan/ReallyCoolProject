@@ -1,0 +1,1 @@
+{"name": "Kenan", "surname": "Memmedli", "age": "14", "money": "1000"}
